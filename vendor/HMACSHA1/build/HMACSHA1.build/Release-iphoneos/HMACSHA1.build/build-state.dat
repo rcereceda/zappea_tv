@@ -1,0 +1,201 @@
+THMACSHA1
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-fpduzlklztyigrfqmvbkeppfonsz/HMACSHA1-Prefix.pch.pth HMACSHA1/HMACSHA1-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7/HMACSHA1.o /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build/libHMACSHA1.a normal armv7
+cPBXCp HMACSHA1/HMACSHA1.h .build/include/HMACSHA1/HMACSHA1.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c0000000050ED385D0000000000000110
+t1357723741
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051CA5288000000000062AD10
+t1372213896
+s6466832
+
+N/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build/include/HMACSHA1/HMACSHA1.h
+t2
+s0
+
+N/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build/libHMACSHA1.a
+t2
+s0
+
+N/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1-Prefix.pch
+c0000000050D56CA8000000000000009D
+t1356164264
+s157
+
+N/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1.h
+c0000000050D56CA80000000000000125
+t1356164264
+s293
+
+N/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1.m
+c0000000050D56CA8000000000000030D
+t1356164264
+s781
+
+N/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7/HMACSHA1.LinkFileList
+c0000000052B0A72F0000000000000099
+t1387308847
+s153
+
+N/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7/HMACSHA1.o
+t1389026203
+s7672
+
+N/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7/libHMACSHA1.a
+t1387308849
+s7920
+
+N/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7s/HMACSHA1.LinkFileList
+c0000000052B0A72F000000000000009A
+t1387308847
+s154
+
+N/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7s/HMACSHA1.o
+t1387308849
+s7672
+
+N/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7s/libHMACSHA1.a
+t1387308849
+s7920
+
+N/var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-aazodymradnfenaxcnecrocfcsdq/HMACSHA1-Prefix.pch.pth
+t1387308848
+s2783180
+
+N/var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-fpduzlklztyigrfqmvbkeppfonsz/HMACSHA1-Prefix.pch.pth
+t1389026202
+s2779764
+
+N/var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-gmonyxitgkuuqnbpryonhwgyyahy/HMACSHA1-Prefix.pch.pth
+t1387308848
+s2783136
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies621315870d90b841^9df121870d90b841^---0#1#0#--18"Check dependencies36"FE112C50-28D1-47F2-B7E5-53CD06469283-
+
+CCompileC build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7/HMACSHA1.o /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410719002.851090
+e410719003.037191
+r1
+xCompileC
+xbuild/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7/HMACSHA1.o
+x/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1.me23ada1a137bb841^2b84091b137bb841^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1.m0000000000000000^3884"CompileC build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7/HMACSHA1.o HMACSHA1/HMACSHA1.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392@global/bin:/Users/rodrigocerecedagrunert/.rvm/rubies/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-generated-files.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-own-target-headers.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-all-target-headers.hmap -iquote /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-project-headers.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/DerivedSources/armv7 -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/DerivedSources -F/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build -include /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-fpduzlklztyigrfqmvbkeppfonsz/HMACSHA1-Prefix.pch -MMD -MT dependencies -MF /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7/HMACSHA1.d --serialize-diagnostics /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7/HMACSHA1.dia -c /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1.m -o /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7/HMACSHA1.o36"72B9A77B-D505-4D6A-B51F-4DAC22C015C1-
+
+CCompileC build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7s/HMACSHA1.o /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s409001648.893529
+e409001649.103732
+r1
+xCompileC
+xbuild/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7s/HMACSHA1.o
+x/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1.md3f5e4b0de60b841^3bc51ab1de60b841^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1.m0000000000000000^3891"CompileC build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7s/HMACSHA1.o HMACSHA1/HMACSHA1.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392@global/bin:/Users/rodrigocerecedagrunert/.rvm/rubies/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-generated-files.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-own-target-headers.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-all-target-headers.hmap -iquote /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-project-headers.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/DerivedSources/armv7s -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/DerivedSources -F/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build -include /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-aazodymradnfenaxcnecrocfcsdq/HMACSHA1-Prefix.pch -MMD -MT dependencies -MF /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7s/HMACSHA1.d --serialize-diagnostics /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7s/HMACSHA1.dia -c /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1.m -o /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7s/HMACSHA1.o36"FC61BBA9-1789-4C40-B78D-AC19C9E2AC4D-
+
+CCreateUniversalBinary /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build/libHMACSHA1.a normal "armv7 armv7s"
+s409172960.558884
+e409172960.568035
+r1
+xCreateUniversalBinary
+x/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build/libHMACSHA1.a
+xnormal
+xarmv7 armv7s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Create universal binary /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build/libHMACSHA1.acd3e8fe07b63b841^df6a91e07b63b841^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build/libHMACSHA1.a000000f0ae021042^996"CreateUniversalBinary .build/libHMACSHA1.a normal "armv7 armv7s"    cd /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392@global/bin:/Users/rodrigocerecedagrunert/.rvm/rubies/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    libtool -static /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7/libHMACSHA1.a /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7s/libHMACSHA1.a -o /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build/libHMACSHA1.a36"39267892-4E45-4BD1-812D-2BD7181279BD-
+
+CLibtool /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build/libHMACSHA1.a normal armv7
+s412093831.152391
+e412093831.159327
+r1
+xLibtool
+x/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build/libHMACSHA1.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Libtool .build/libHMACSHA1.a normal armv7492a27870d90b841^c4ce28870d90b841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1199"Libtool .build/libHMACSHA1.a normal armv7    cd /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392@global/bin:/Users/rodrigocerecedagrunert/.rvm/rubies/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build -filelist /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7/HMACSHA1.LinkFileList -ObjC -framework Foundation -o /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build/libHMACSHA1.a36"B5436623-61F4-4F94-A4B5-B94E4D559418-
+
+CLibtool /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7/libHMACSHA1.a normal armv7
+s409001649.108100
+e409001649.141202
+r1
+xLibtool
+x/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7/libHMACSHA1.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Libtool build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7/libHMACSHA1.a normal armv746d11bb1de60b841^003a24b1de60b841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1333"Libtool build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7/libHMACSHA1.a normal armv7    cd /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392@global/bin:/Users/rodrigocerecedagrunert/.rvm/rubies/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build -filelist /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7/HMACSHA1.LinkFileList -ObjC -framework Foundation -o /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7/libHMACSHA1.a36"33BFECAE-E108-4232-AA30-397DA830FF46-
+
+CLibtool /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7s/libHMACSHA1.a normal armv7s
+s409001649.113490
+e409001649.140884
+r1
+xLibtool
+x/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7s/libHMACSHA1.a
+xnormal
+xarmv7s
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Libtool build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7s/libHMACSHA1.a normal armv7s22351db1de60b841^0d1824b1de60b841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1338"Libtool build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7s/libHMACSHA1.a normal armv7s    cd /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392@global/bin:/Users/rodrigocerecedagrunert/.rvm/rubies/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build -filelist /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7s/HMACSHA1.LinkFileList -ObjC -framework Foundation -o /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/Objects-normal/armv7s/libHMACSHA1.a36"536906CC-A64B-42B5-84CF-961204064095-
+
+CPBXCp HMACSHA1/HMACSHA1.h .build/include/HMACSHA1/HMACSHA1.h
+s412093831.167645
+e412093831.171619
+r1
+xPBXCp
+xHMACSHA1/HMACSHA1.h
+x.build/include/HMACSHA1/HMACSHA1.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy .build/include/HMACSHA1/HMACSHA1.hde3a2b870d90b841^4aef2b870d90b841^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build/include/HMACSHA1/HMACSHA1.h000000000080d041^985"PBXCp HMACSHA1/HMACSHA1.h .build/include/HMACSHA1/HMACSHA1.h    cd /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392@global/bin:/Users/rodrigocerecedagrunert/.rvm/rubies/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1.h /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build/include/HMACSHA136"0F3036F4-2862-40C0-A0D6-9BF459DA876E-
+
+CProcessPCH /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-aazodymradnfenaxcnecrocfcsdq/HMACSHA1-Prefix.pch.pth HMACSHA1/HMACSHA1-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s409001647.560420
+e409001648.886466
+r1
+xProcessPCH
+x/var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-aazodymradnfenaxcnecrocfcsdq/HMACSHA1-Prefix.pch.pth
+xHMACSHA1/HMACSHA1-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile HMACSHA1/HMACSHA1-Prefix.pchcaa78fafde60b841^8df0e2b0de60b841^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1-Prefix.pch0000000000000000^3850"ProcessPCH /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-aazodymradnfenaxcnecrocfcsdq/HMACSHA1-Prefix.pch.pth HMACSHA1/HMACSHA1-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392@global/bin:/Users/rodrigocerecedagrunert/.rvm/rubies/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-generated-files.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-own-target-headers.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-all-target-headers.hmap -iquote /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-project-headers.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/DerivedSources/armv7s -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/DerivedSources -F/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build --serialize-diagnostics /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-aazodymradnfenaxcnecrocfcsdq/HMACSHA1-Prefix.pch.dia -c /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1-Prefix.pch -o /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-aazodymradnfenaxcnecrocfcsdq/HMACSHA1-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-aazodymradnfenaxcnecrocfcsdq/HMACSHA1-Prefix.pch.d36"D9BBC4C4-75DA-4EF7-A396-7F1441870582-
+
+CProcessPCH /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-fpduzlklztyigrfqmvbkeppfonsz/HMACSHA1-Prefix.pch.pth HMACSHA1/HMACSHA1-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410719001.641578
+e410719002.843517
+r1
+xProcessPCH
+x/var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-fpduzlklztyigrfqmvbkeppfonsz/HMACSHA1-Prefix.pch.pth
+xHMACSHA1/HMACSHA1-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile HMACSHA1/HMACSHA1-Prefix.pch8c9da419137bb841^91eed71a137bb841^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1-Prefix.pch0000000000000000^3847"ProcessPCH /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-fpduzlklztyigrfqmvbkeppfonsz/HMACSHA1-Prefix.pch.pth HMACSHA1/HMACSHA1-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392@global/bin:/Users/rodrigocerecedagrunert/.rvm/rubies/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-generated-files.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-own-target-headers.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-all-target-headers.hmap -iquote /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-project-headers.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/DerivedSources/armv7 -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/DerivedSources -F/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build --serialize-diagnostics /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-fpduzlklztyigrfqmvbkeppfonsz/HMACSHA1-Prefix.pch.dia -c /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1-Prefix.pch -o /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-fpduzlklztyigrfqmvbkeppfonsz/HMACSHA1-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-fpduzlklztyigrfqmvbkeppfonsz/HMACSHA1-Prefix.pch.d36"FF5D4D2D-F140-44D4-925D-7CA8D3E3D50A-
+
+CProcessPCH /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-gmonyxitgkuuqnbpryonhwgyyahy/HMACSHA1-Prefix.pch.pth HMACSHA1/HMACSHA1-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s409001647.559370
+e409001648.886731
+r1
+xProcessPCH
+x/var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-gmonyxitgkuuqnbpryonhwgyyahy/HMACSHA1-Prefix.pch.pth
+xHMACSHA1/HMACSHA1-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile HMACSHA1/HMACSHA1-Prefix.pchdc848fafde60b841^2bf7e2b0de60b841^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1-Prefix.pch0000000000000000^3847"ProcessPCH /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-gmonyxitgkuuqnbpryonhwgyyahy/HMACSHA1-Prefix.pch.pth HMACSHA1/HMACSHA1-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392@global/bin:/Users/rodrigocerecedagrunert/.rvm/rubies/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-generated-files.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-own-target-headers.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-all-target-headers.hmap -iquote /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/HMACSHA1-project-headers.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/DerivedSources/armv7 -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/build/HMACSHA1.build/Release-iphoneos/HMACSHA1.build/DerivedSources -F/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/.build --serialize-diagnostics /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-gmonyxitgkuuqnbpryonhwgyyahy/HMACSHA1-Prefix.pch.dia -c /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/HMACSHA1/HMACSHA1/HMACSHA1-Prefix.pch -o /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-gmonyxitgkuuqnbpryonhwgyyahy/HMACSHA1-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HMACSHA1-Prefix-gmonyxitgkuuqnbpryonhwgyyahy/HMACSHA1-Prefix.pch.d36"C1BCDFEB-FA4A-407E-8B34-6204DCA0C9AD-
+

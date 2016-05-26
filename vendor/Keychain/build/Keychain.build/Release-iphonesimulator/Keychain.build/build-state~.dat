@@ -1,0 +1,110 @@
+TKeychain
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Keychain-Prefix-eulffbwnvnennucnvzznwggpgzpz/Keychain-Prefix.pch.pth Keychain/Keychain-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Keychain.build/Release-iphonesimulator/Keychain.build/Objects-normal/i386/Keychain.o /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/Keychain/Keychain.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/.build/libKeychain.a normal i386
+cPBXCp Keychain/Keychain.h .build/include/Keychain/Keychain.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051CA52AF00000000003DDFA0
+t1372213935
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000051CA52B3000000000006E360
+t1372213939
+s451424
+
+N/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/.build/include/Keychain/Keychain.h
+t2
+s0
+
+N/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/.build/libKeychain.a
+t2
+s0
+
+N/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/Keychain/Keychain-Prefix.pch
+c0000000050D56CA8000000000000009D
+t1356164264
+s157
+
+N/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/Keychain/Keychain.h
+c0000000050D56CA8000000000000025E
+t1356164264
+s606
+
+N/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/Keychain/Keychain.m
+c0000000050D56CA80000000000001340
+t1356164264
+s4928
+
+N/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/build/Keychain.build/Release-iphonesimulator/Keychain.build/Objects-normal/i386/Keychain.LinkFileList
+c0000000052A8C84C000000000000009F
+t1386793036
+s159
+
+N/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/build/Keychain.build/Release-iphonesimulator/Keychain.build/Objects-normal/i386/Keychain.o
+t2
+s0
+
+N/var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Keychain-Prefix-eulffbwnvnennucnvzznwggpgzpz/Keychain-Prefix.pch.pth
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies5324f7cbff58b841^b7b707ccff58b841^---0#1#0#--18"Check dependencies36"F3E5E64B-4939-41B4-841F-28775D5D1AED-
+
+CCompileC build/Keychain.build/Release-iphonesimulator/Keychain.build/Objects-normal/i386/Keychain.o /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/Keychain/Keychain.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408485836.279274
+e408485836.335752
+r1
+xCompileC
+xbuild/Keychain.build/Release-iphonesimulator/Keychain.build/Objects-normal/i386/Keychain.o
+x/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/Keychain/Keychain.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/Keychain/Keychain.mecc247ccff58b841^62f355ccff58b841^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/Keychain/Keychain.m0000000000000000^4043"CompileC build/Keychain.build/Release-iphonesimulator/Keychain.build/Objects-normal/i386/Keychain.o Keychain/Keychain.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392@global/bin:/Users/rodrigocerecedagrunert/.rvm/rubies/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/build/Keychain.build/Release-iphonesimulator/Keychain.build/Keychain-generated-files.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/build/Keychain.build/Release-iphonesimulator/Keychain.build/Keychain-own-target-headers.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/build/Keychain.build/Release-iphonesimulator/Keychain.build/Keychain-all-target-headers.hmap -iquote /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/build/Keychain.build/Release-iphonesimulator/Keychain.build/Keychain-project-headers.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/.build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/build/Keychain.build/Release-iphonesimulator/Keychain.build/DerivedSources/i386 -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/build/Keychain.build/Release-iphonesimulator/Keychain.build/DerivedSources -F/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/.build -include /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Keychain-Prefix-eulffbwnvnennucnvzznwggpgzpz/Keychain-Prefix.pch -MMD -MT dependencies -MF /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/build/Keychain.build/Release-iphonesimulator/Keychain.build/Objects-normal/i386/Keychain.d --serialize-diagnostics /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/build/Keychain.build/Release-iphonesimulator/Keychain.build/Objects-normal/i386/Keychain.dia -c /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/Keychain/Keychain.m -o /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/build/Keychain.build/Release-iphonesimulator/Keychain.build/Objects-normal/i386/Keychain.o36"87705617-698A-4649-BB3D-36F04685E8B3-
+
+CLibtool /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/.build/libKeychain.a normal i386
+s408485836.342795
+e408485836.350606
+r1
+xLibtool
+x/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/.build/libKeychain.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Libtool .build/libKeychain.a normal i3867fdb57ccff58b841^2fc159ccff58b841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1244"Libtool .build/libKeychain.a normal i386    cd /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392@global/bin:/Users/rodrigocerecedagrunert/.rvm/rubies/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/.build -filelist /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/build/Keychain.build/Release-iphonesimulator/Keychain.build/Objects-normal/i386/Keychain.LinkFileList -ObjC -framework Security -framework Foundation -o /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/.build/libKeychain.a36"E2D04296-C5F3-4641-8961-012A93A29979-
+
+CPBXCp Keychain/Keychain.h .build/include/Keychain/Keychain.h
+s408485836.358729
+e408485836.361183
+r1
+xPBXCp
+xKeychain/Keychain.h
+x.build/include/Keychain/Keychain.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy .build/include/Keychain/Keychain.h80f25bccff58b841^4b765cccff58b841^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/.build/include/Keychain/Keychain.h000000000080d041^992"PBXCp Keychain/Keychain.h .build/include/Keychain/Keychain.h    cd /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392@global/bin:/Users/rodrigocerecedagrunert/.rvm/rubies/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/Keychain/Keychain.h /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/.build/include/Keychain36"1ABF05F8-CBAE-41B4-9066-17781D38B542-
+
+CProcessPCH /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Keychain-Prefix-eulffbwnvnennucnvzznwggpgzpz/Keychain-Prefix.pch.pth Keychain/Keychain-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408485836.036957
+e408485836.272196
+r1
+xProcessPCH
+x/var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Keychain-Prefix-eulffbwnvnennucnvzznwggpgzpz/Keychain-Prefix.pch.pth
+xKeychain/Keychain-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Keychain/Keychain-Prefix.pchfcc409ccff58b841^cdcb45ccff58b841^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/Keychain/Keychain-Prefix.pch0000000000000000^3982"ProcessPCH /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Keychain-Prefix-eulffbwnvnennucnvzznwggpgzpz/Keychain-Prefix.pch.pth Keychain/Keychain-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/gems/ruby-1.9.3-p392@global/bin:/Users/rodrigocerecedagrunert/.rvm/rubies/ruby-1.9.3-p392/bin:/Users/rodrigocerecedagrunert/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/build/Keychain.build/Release-iphonesimulator/Keychain.build/Keychain-generated-files.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/build/Keychain.build/Release-iphonesimulator/Keychain.build/Keychain-own-target-headers.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/build/Keychain.build/Release-iphonesimulator/Keychain.build/Keychain-all-target-headers.hmap -iquote /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/build/Keychain.build/Release-iphonesimulator/Keychain.build/Keychain-project-headers.hmap -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/.build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/build/Keychain.build/Release-iphonesimulator/Keychain.build/DerivedSources/i386 -I/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/build/Keychain.build/Release-iphonesimulator/Keychain.build/DerivedSources -F/Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/.build --serialize-diagnostics /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Keychain-Prefix-eulffbwnvnennucnvzznwggpgzpz/Keychain-Prefix.pch.dia -c /Users/rodrigocerecedagrunert/Documents/work/Zappea/vendor/Keychain/Keychain/Keychain-Prefix.pch -o /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Keychain-Prefix-eulffbwnvnennucnvzznwggpgzpz/Keychain-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/nw/g59m30nx6w1f1tm7mgfbw3c00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Keychain-Prefix-eulffbwnvnennucnvzznwggpgzpz/Keychain-Prefix.pch.d36"4BE5EB1F-5AD6-4008-8743-67235C449EC7-
+
